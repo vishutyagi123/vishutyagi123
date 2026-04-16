@@ -11,7 +11,7 @@
 
 ## 🎖️ Certifications
 
-- GATE Qualified - Data Science & AI (2025)
+- GATE Qualified - Data Science & AI (2025 & 2026)
 - Microsoft Azure Data Fundamentals (DP-900) - May 2023
 - Data Science & Machine Learning Program - upGrad (Completed during B.Tech)
 - DroneSphere Workshop - NIT Jalandhar (Drone Systems, Control Mechanisms, Autonomous Flight)
